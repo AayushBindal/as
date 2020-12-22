@@ -7,6 +7,7 @@ var engine, world;
 var box1, pig1;
 var backgroundImg, platform1;
 var slingshot;
+var bird;
 
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
